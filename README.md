@@ -13,10 +13,8 @@ AutoGitignoreGenerator is a Python tool that automates the creation of `.gitigno
 ## Getting Started
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Set up your OpenAI GPT-3 API credentials as environment variables.
-4. Create a `req.txt` file with your specific requirements.
-5. Run the script using `python main.py`.
+2. Create a `requirements.txt` file with your specific requirements.
+3. Run the script using `python main.py`.
 
 ## Dependencies
 
